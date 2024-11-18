@@ -25,5 +25,5 @@ The `task` field represents the name of the task to solve. To solve other tasks,
 To view BTBOT's performance on 70 benchmark tasks, execute the following command. The output will display the task name and the corresponding BT for each task:
 
 ```bash
-./dist/script --result "result" --url "https://api.key77qiqi.cn/v1" --key "sk-O3txzySI43sba7uJFdF929B3253243A598Ea2b6cE1920bF7" --llm "gpt-4o"
+./dist/script --result "result" --url "https://* * *" --key "* * *" --llm "gpt-4o"
 ```
